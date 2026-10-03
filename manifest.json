@@ -1,12 +1,6 @@
 {
-  "app": "PhatVPS Game Updater",
-  "games": {
-    "hunghero": {
-      "name": "HungHero",
-      "version": "1.0",
-      "filename": "x5.HungHero.jar",
-      "url": "https://github.com/huuphat68/phatvps-updater-test/releases/download/game-v1/x5.HungHero.jar",
-      "message": "Bản HungHero mới đã sẵn sàng."
-    }
-  }
+  "version": "1.0",
+  "filename": "Setup-v1.zip",
+  "url": "https://github.com/huuphat68/phatvps-updater-test/releases/download/game-v1/Setup-v1.zip",
+  "message": "Có bản cập nhật bộ game mới."
 }
