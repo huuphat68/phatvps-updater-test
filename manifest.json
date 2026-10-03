@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "filename": "Setup.zip",
-  "url": "https://github.com/huuphat68/phatvps-updater-test/releases/download/game-v4/Setup.zip",
-  "message": "Có bản cập nhật bộ game mới."
+  "url": "https://github.com/huuphat68/phatvps-updater-test/releases/latest/download/Setup.zip",
+  "message": "Có bản cập nhật mới."
 }
